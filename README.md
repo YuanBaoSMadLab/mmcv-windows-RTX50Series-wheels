@@ -42,9 +42,9 @@ Notes:
 - Newer drivers generally remain backward compatible with older PyTorch builds
 - Intended for RTX 50 Series users requiring the latest CUDA stack
 
-===========================================================
+---
 Disclaimer
-===========================================================
+---
 
 These wheels are unofficial community builds intended to fill the gap
 for RTX 50 Series users on Windows.
